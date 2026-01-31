@@ -1,0 +1,5 @@
+{
+  "name": "Sora-2 Video Studio",
+  "description": "A professional-grade interface for generating videos using OpenAI Sora-2 model with customizable endpoints and parameters.",
+  "requestFramePermissions": []
+}
